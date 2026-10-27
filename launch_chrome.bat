@@ -9,7 +9,7 @@ start chrome.exe ^
 --remote-debugging-port=9222 ^
 --user-data-dir="C:\chrome_debug\instagram" ^
 --remote-allow-origins=http://localhost:9222 ^
---user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" ^
+--user-agent="Mozilla/5.0 (Windows; U; Windows NT 6.1; x64) AppleWebKit/601.33 (KHTML, like Gecko) Chrome/49.0.1076.318 Safari/602" ^
 --start-maximized ^
 https://www.instagram.com/
 
